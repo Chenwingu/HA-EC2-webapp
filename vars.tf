@@ -49,10 +49,3 @@ variable "key_name" {
   type = string
   default = "ec2login"
 }
-
-
-variable "userdata_file" {
-  type = string
-  
-  default = "userdata.tpl"
-}
