@@ -1,6 +1,6 @@
 # High Availability + EC2 Infrastructure + AWS + Terraform + GitHub Actions
 
-![image](https://github.com/Chenwingu/HA-ec2/assets/103339990/b86aaa2f-eeda-427a-81fe-125a653942ff)
+![image](https://github.com/Chenwingu/HA-EC2-webapp/blob/main/aws-ec2-ha-diagram.png)
 
 # Prerequisites
 For this code to function without errors, I created an OpenID connect identity provider in Amazon Identity and Access Management that has a trust relationship with this GitHub repository. You can read about it [here](https://medium.com/@chenwingu/securely-deploy-static-website-on-aws-s3-aws-cloudfront-using-terraform-from-github-actions-with-ac5e2060c33a) to get a detailed explanation with steps.
